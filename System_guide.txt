@@ -1,0 +1,24 @@
+SYSTEM NAVIGATION
+
+1. The user navigates to Homepage
+
+2. Chooses Administrator as Login type
+
+2. Enters credentials specified in the readme file
+
+3. Accesses Admin Dashboard where 
+		
+		a. a new user can be created
+		b. a new case can be opened
+		c. new suspects, witnesses and exhibits can be added
+		d. all the above can be updated
+
+4. The Administrator logs out to re-login or go back to Home Page
+
+5. The user (Staff) can login using the credentials created by the admin
+
+6. The user (staff) has limited privileges
+
+7. Searching of fields can be done throughout the system.
+
+8. All passwords are hashed and can't be accessed in the Database system as a plain text
