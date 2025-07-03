@@ -19,9 +19,15 @@
    GROUP 12 MEMBERS
    =================
       **NAME**                      **REGISTRATION NO**
+   
     1	AMONGIN SYLIVIA	              2023/DCS/DAY/1145/G
-    2	MUTASA ERIC	                  2023/DCS/DAY/1109/G
+   
+    2	MUTASA ERIC	                     2023/DCS/DAY/1109/G
+   
     3	NINSIIMA ROSETTE	              2023/DCS/EVE/1003
+   
     4	SPENCER RICHARD MATIA	        2023/DCS/EVE/1387
+   
     5	ARINDA RITAH	                2023/DCS/EVE/1509
+   
     6	WEECHE MOSES	                2023/DCS/EVE/0229
